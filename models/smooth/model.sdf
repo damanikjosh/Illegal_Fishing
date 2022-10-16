@@ -33,7 +33,7 @@
           <pose>0 0 0 0 0 0</pose>
           <geometry>
             <box>
-              <size>100 100 .1</size>
+              <size>200 200 .1</size>
             </box>
           </geometry>
           <material>
